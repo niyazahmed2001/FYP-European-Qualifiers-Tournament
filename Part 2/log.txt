@@ -1,0 +1,237 @@
+Optimizing League A
+Iteration: 0 Distance: 121430.59850311691
+Iteration: 2 Distance: 108119.19083549308
+Iteration: 16 Distance: 96472.60970777368
+Iteration: 27 Distance: 82311.63352103281
+Iteration: 318 Distance: 79182.2199188165
+Iteration: 849 Distance: 79046.1768904202
+Iteration: 3587 Distance: 77691.87827998611
+Iteration: 4816 Distance: 77288.48231257462
+Iteration: 8794 Distance: 76035.18583838883
+Iteration: 9130 Distance: 71324.43747149387
+Iteration: 18983 Distance: 67957.19056274091
+Time Taken for optimizing League A was 105 seconds
+Optimized Groups for League A are:
+Group A1 consists of Switzerland, Denmark, Norway, Czechia
+Switzerland will play against Denmark at STADE DE SUISSE Wankdorf Bern stadium in Switzerland
+Switzerland will play against Norway at STADE DE SUISSE Wankdorf Bern stadium in Switzerland
+Switzerland will play against Czechia at STADE DE SUISSE Wankdorf Bern stadium in Switzerland
+Denmark will play against Switzerland at Parken stadium in Denmark
+Denmark will play against Norway at Parken stadium in Denmark
+Denmark will play against Czechia at Parken stadium in Denmark
+Norway will play against Switzerland at Ullevaal Stadion stadium in Norway
+Norway will play against Denmark at Ullevaal Stadion stadium in Norway
+Norway will play against Czechia at Ullevaal Stadion stadium in Norway
+Czechia will play against Switzerland at Stadion Letná stadium in Czechia
+Czechia will play against Denmark at Stadion Letná stadium in Czechia
+Czechia will play against Norway at Stadion Letná stadium in Czechia
+Group A2 consists of Netherlands, Scotland, England, Belgium
+Netherlands will play against Scotland at Johan Cruyff Arena stadium in Netherlands
+Netherlands will play against England at Johan Cruyff Arena stadium in Netherlands
+Netherlands will play against Belgium at Johan Cruyff Arena stadium in Netherlands
+Scotland will play against Netherlands at Hampden Park stadium in Scotland
+Scotland will play against England at Hampden Park stadium in Scotland
+Scotland will play against Belgium at Hampden Park stadium in Scotland
+England will play against Netherlands at Wembley Stadium stadium in England
+England will play against Scotland at Wembley Stadium stadium in England
+England will play against Belgium at Wembley Stadium stadium in England
+Belgium will play against Netherlands at King Baudouin Stadium stadium in Belgium
+Belgium will play against Scotland at King Baudouin Stadium stadium in Belgium
+Belgium will play against England at King Baudouin Stadium stadium in Belgium
+Group A3 consists of TÃ¼rkiye, Germany, Israel, Austria
+TÃ¼rkiye will play against Germany at Atatürk Olympic Stadium stadium in TÃ¼rkiye
+TÃ¼rkiye will play against Israel at Atatürk Olympic Stadium stadium in TÃ¼rkiye
+TÃ¼rkiye will play against Austria at Atatürk Olympic Stadium stadium in TÃ¼rkiye
+Germany will play against TÃ¼rkiye at Olympiastadion stadium in Germany
+Germany will play against Israel at Olympiastadion stadium in Germany
+Germany will play against Austria at Olympiastadion stadium in Germany
+Israel will play against TÃ¼rkiye at Ramat Gan Stadium stadium in Israel
+Israel will play against Germany at Ramat Gan Stadium stadium in Israel
+Israel will play against Austria at Ramat Gan Stadium stadium in Israel
+Austria will play against TÃ¼rkiye at Ernst Happel Stadium stadium in Austria
+Austria will play against Germany at Ernst Happel Stadium stadium in Austria
+Austria will play against Israel at Ernst Happel Stadium stadium in Austria
+Group A4 consists of Spain, Portugal, Italy, France
+Spain will play against Portugal at Camp de Mestalla stadium in Spain
+Spain will play against Italy at Camp de Mestalla stadium in Spain
+Spain will play against France at Camp de Mestalla stadium in Spain
+Portugal will play against Spain at Estádio Nacional stadium in Portugal
+Portugal will play against Italy at Estádio Nacional stadium in Portugal
+Portugal will play against France at Estádio Nacional stadium in Portugal
+Italy will play against Spain at Stadio Olimpico stadium in Italy
+Italy will play against Portugal at Stadio Olimpico stadium in Italy
+Italy will play against France at Stadio Olimpico stadium in Italy
+France will play against Spain at Stade de France stadium in France
+France will play against Portugal at Stade de France stadium in France
+France will play against Italy at Stade de France stadium in France
+
+
+Optimizing League B
+Iteration: 0 Distance: 56017.63262409161
+Iteration: 1 Distance: 52129.553249491524
+Iteration: 2 Distance: 49703.64500493648
+Iteration: 15 Distance: 46616.41493501921
+Iteration: 58 Distance: 45600.93927925672
+Iteration: 149 Distance: 42195.22416121645
+Iteration: 816 Distance: 40559.742976767324
+Iteration: 1492 Distance: 39302.8920917702
+Iteration: 1952 Distance: 37374.9394851713
+Iteration: 12734 Distance: 35467.19906556964
+Iteration: 13164 Distance: 32988.66909723417
+Time Taken for optimizing League B was 58 seconds
+Optimized Groups for League B are:
+Group B1 consists of Bulgaria, Kosovo, Moldova, Romania
+Bulgaria will play against Kosovo at Vasil Levski National Stadium stadium in Bulgaria
+Bulgaria will play against Moldova at Vasil Levski National Stadium stadium in Bulgaria
+Bulgaria will play against Romania at Vasil Levski National Stadium stadium in Bulgaria
+Kosovo will play against Bulgaria at Stadium Fadil Vokrri Pristina stadium in Kosovo
+Kosovo will play against Moldova at Stadium Fadil Vokrri Pristina stadium in Kosovo
+Kosovo will play against Romania at Stadium Fadil Vokrri Pristina stadium in Kosovo
+Moldova will play against Bulgaria at Zimbru Stadium stadium in Moldova
+Moldova will play against Kosovo at Zimbru Stadium stadium in Moldova
+Moldova will play against Romania at Zimbru Stadium stadium in Moldova
+Romania will play against Bulgaria at Arena Națională stadium in Romania
+Romania will play against Kosovo at Arena Națională stadium in Romania
+Romania will play against Moldova at Arena Națională stadium in Romania
+Group B2 consists of Serbia, Hungary, Croatia, Slovakia
+Serbia will play against Hungary at Red Star's Stadion Rajko Mitic stadium in Serbia
+Serbia will play against Croatia at Red Star's Stadion Rajko Mitic stadium in Serbia
+Serbia will play against Slovakia at Red Star's Stadion Rajko Mitic stadium in Serbia
+Hungary will play against Serbia at Puskás Aréna stadium in Hungary
+Hungary will play against Croatia at Puskás Aréna stadium in Hungary
+Hungary will play against Slovakia at Puskás Aréna stadium in Hungary
+Croatia will play against Serbia at Stadion Maksimir stadium in Croatia
+Croatia will play against Hungary at Stadion Maksimir stadium in Croatia
+Croatia will play against Slovakia at Stadion Maksimir stadium in Croatia
+Slovakia will play against Serbia at Tehelné pole stadium in Slovakia
+Slovakia will play against Hungary at Tehelné pole stadium in Slovakia
+Slovakia will play against Croatia at Tehelné pole stadium in Slovakia
+Group B3 consists of Poland, Ukraine, Sweden, Slovenia
+Poland will play against Ukraine at Stadion Narodowy stadium in Poland
+Poland will play against Sweden at Stadion Narodowy stadium in Poland
+Poland will play against Slovenia at Stadion Narodowy stadium in Poland
+Ukraine will play against Poland at Epet Arena stadium in Ukraine
+Ukraine will play against Sweden at Epet Arena stadium in Ukraine
+Ukraine will play against Slovenia at Epet Arena stadium in Ukraine
+Sweden will play against Poland at Friends Arena stadium in Sweden
+Sweden will play against Ukraine at Friends Arena stadium in Sweden
+Sweden will play against Slovenia at Friends Arena stadium in Sweden
+Slovenia will play against Poland at Stožice Stadium stadium in Slovenia
+Slovenia will play against Ukraine at Stožice Stadium stadium in Slovenia
+Slovenia will play against Sweden at Stožice Stadium stadium in Slovenia
+Group B4 consists of Azerbaijan, Greece, Cyprus
+Azerbaijan will play against Greece at Baku Olympic Stadium stadium in Azerbaijan
+Azerbaijan will play against Cyprus at Baku Olympic Stadium stadium in Azerbaijan
+Greece will play against Azerbaijan at Stadium OPAP Arena stadium in Greece
+Greece will play against Cyprus at Stadium OPAP Arena stadium in Greece
+Cyprus will play against Azerbaijan at GSP Stadium stadium in Cyprus
+Cyprus will play against Greece at GSP Stadium stadium in Cyprus
+
+
+Optimizing League C
+Iteration: 0 Distance: 168578.1643664446
+Iteration: 1 Distance: 151544.08284611913
+Iteration: 2 Distance: 141249.8343753907
+Iteration: 7 Distance: 141189.89694304363
+Iteration: 25 Distance: 128836.80130091579
+Iteration: 37 Distance: 127573.14862269598
+Iteration: 227 Distance: 125227.41741923934
+Iteration: 255 Distance: 123698.39274814504
+Iteration: 290 Distance: 112093.22732818297
+Iteration: 463 Distance: 106841.8321991755
+Iteration: 592 Distance: 104445.66045898637
+Iteration: 2977 Distance: 104077.7874986496
+Iteration: 3625 Distance: 103620.13739200367
+Iteration: 5160 Distance: 103021.19538692829
+Iteration: 5437 Distance: 95343.71264846748
+Iteration: 5893 Distance: 95097.37337368741
+Iteration: 6759 Distance: 90405.64869126445
+Iteration: 9705 Distance: 84413.18653449301
+Iteration: 74531 Distance: 76232.69903200422
+Iteration: 92857 Distance: 75577.22797505582
+Time Taken for optimizing League C was 69 seconds
+Optimized Groups for League C are:
+Group C1 consists of Albania, Luxembourg, Liechtenstein, Malta
+Albania will play against Luxembourg at Arena Kombëtare stadium in Albania
+Albania will play against Liechtenstein at Arena Kombëtare stadium in Albania
+Albania will play against Malta at Arena Kombëtare stadium in Albania
+Luxembourg will play against Albania at Luxembourg Stadium stadium in Luxembourg
+Luxembourg will play against Liechtenstein at Luxembourg Stadium stadium in Luxembourg
+Luxembourg will play against Malta at Luxembourg Stadium stadium in Luxembourg
+Liechtenstein will play against Albania at Rheinpark Stadium stadium in Liechtenstein
+Liechtenstein will play against Luxembourg at Rheinpark Stadium stadium in Liechtenstein
+Liechtenstein will play against Malta at Rheinpark Stadium stadium in Liechtenstein
+Malta will play against Albania at National Stadium stadium in Malta
+Malta will play against Luxembourg at National Stadium stadium in Malta
+Malta will play against Liechtenstein at National Stadium stadium in Malta
+Group C2 consists of Estonia, Lithuania, Latvia, Bosnia and Herzegovina
+Estonia will play against Lithuania at A. Le Coq Arena stadium in Estonia
+Estonia will play against Latvia at A. Le Coq Arena stadium in Estonia
+Estonia will play against Bosnia and Herzegovina at A. Le Coq Arena stadium in Estonia
+Lithuania will play against Estonia at Nacionalinis stadionas stadium in Lithuania
+Lithuania will play against Latvia at Nacionalinis stadionas stadium in Lithuania
+Lithuania will play against Bosnia and Herzegovina at Nacionalinis stadionas stadium in Lithuania
+Latvia will play against Estonia at Daugava Stadium stadium in Latvia
+Latvia will play against Lithuania at Daugava Stadium stadium in Latvia
+Latvia will play against Bosnia and Herzegovina at Daugava Stadium stadium in Latvia
+Bosnia and Herzegovina will play against Estonia at Bilino Polje Stadium stadium in Bosnia and Herzegovina
+Bosnia and Herzegovina will play against Lithuania at Bilino Polje Stadium stadium in Bosnia and Herzegovina
+Bosnia and Herzegovina will play against Latvia at Bilino Polje Stadium stadium in Bosnia and Herzegovina
+Group C3 consists of Armenia, Finland, Georgia, Kazakhstan
+Armenia will play against Finland at Vazgen Sargsyan Republican Stadium stadium in Armenia
+Armenia will play against Georgia at Vazgen Sargsyan Republican Stadium stadium in Armenia
+Armenia will play against Kazakhstan at Vazgen Sargsyan Republican Stadium stadium in Armenia
+Finland will play against Armenia at Helsinki Olympic Stadium stadium in Finland
+Finland will play against Georgia at Helsinki Olympic Stadium stadium in Finland
+Finland will play against Kazakhstan at Helsinki Olympic Stadium stadium in Finland
+Georgia will play against Armenia at Boris Paichadze Dinamo Arena stadium in Georgia
+Georgia will play against Finland at Boris Paichadze Dinamo Arena stadium in Georgia
+Georgia will play against Kazakhstan at Boris Paichadze Dinamo Arena stadium in Georgia
+Kazakhstan will play against Armenia at Astana Arena stadium in Kazakhstan
+Kazakhstan will play against Finland at Astana Arena stadium in Kazakhstan
+Kazakhstan will play against Georgia at Astana Arena stadium in Kazakhstan
+Group C4 consists of Faroe Islands, Northern Ireland, Iceland, Republic of Ireland
+Faroe Islands will play against Northern Ireland at Tórsvøllur stadium in Faroe Islands
+Faroe Islands will play against Iceland at Tórsvøllur stadium in Faroe Islands
+Faroe Islands will play against Republic of Ireland at Tórsvøllur stadium in Faroe Islands
+Northern Ireland will play against Faroe Islands at National Football Stadium at Windsor Park stadium in Northern Ireland
+Northern Ireland will play against Iceland at National Football Stadium at Windsor Park stadium in Northern Ireland
+Northern Ireland will play against Republic of Ireland at National Football Stadium at Windsor Park stadium in Northern Ireland
+Iceland will play against Faroe Islands at Laugardalsvöllur stadium in Iceland
+Iceland will play against Northern Ireland at Laugardalsvöllur stadium in Iceland
+Iceland will play against Republic of Ireland at Laugardalsvöllur stadium in Iceland
+Republic of Ireland will play against Faroe Islands at Aviva Stadium stadium in Republic of Ireland
+Republic of Ireland will play against Northern Ireland at Aviva Stadium stadium in Republic of Ireland
+Republic of Ireland will play against Iceland at Aviva Stadium stadium in Republic of Ireland
+
+
+Optimizing League D
+Iteration: 0 Distance: 39943.178754774315
+Iteration: 1 Distance: 35515.05219604797
+Iteration: 3 Distance: 34782.78198522166
+Iteration: 6 Distance: 32589.944696823964
+Iteration: 7 Distance: 31461.747494157433
+Iteration: 18 Distance: 21509.104486233467
+Iteration: 353 Distance: 21509.104486233464
+Time Taken for optimizing League D was 29 seconds
+Optimized Groups for League D are:
+Group D1 consists of San Marino, Belarus, North Macedonia, Montenegro
+San Marino will play against Belarus at San Marino Stadium stadium in San Marino
+San Marino will play against North Macedonia at San Marino Stadium stadium in San Marino
+San Marino will play against Montenegro at San Marino Stadium stadium in San Marino
+Belarus will play against San Marino at Dinamo Stadium stadium in Belarus
+Belarus will play against North Macedonia at Dinamo Stadium stadium in Belarus
+Belarus will play against Montenegro at Dinamo Stadium stadium in Belarus
+North Macedonia will play against San Marino at Todor Proeski National Arena stadium in North Macedonia
+North Macedonia will play against Belarus at Todor Proeski National Arena stadium in North Macedonia
+North Macedonia will play against Montenegro at Todor Proeski National Arena stadium in North Macedonia
+Montenegro will play against San Marino at Podgorica City Stadium stadium in Montenegro
+Montenegro will play against Belarus at Podgorica City Stadium stadium in Montenegro
+Montenegro will play against North Macedonia at Podgorica City Stadium stadium in Montenegro
+Group D2 consists of Andorra, Wales, Gibraltar
+Andorra will play against Wales at Estadi Nacional stadium in Andorra
+Andorra will play against Gibraltar at Estadi Nacional stadium in Andorra
+Wales will play against Andorra at Principality Stadium stadium in Wales
+Wales will play against Gibraltar at Principality Stadium stadium in Wales
+Gibraltar will play against Andorra at Victoria Stadium stadium in Gibraltar
+Gibraltar will play against Wales at Victoria Stadium stadium in Gibraltar

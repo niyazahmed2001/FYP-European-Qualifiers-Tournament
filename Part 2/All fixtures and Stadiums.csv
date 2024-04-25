@@ -1,0 +1,157 @@
+Team1,Team2,Stadium,Distance
+Austria,Denmark,Ernst Happel Stadium,0.9132589873772423
+Austria,Norway,Ernst Happel Stadium,1.4172850076388068
+Austria,Czechia,Ernst Happel Stadium,0.3014154052558384
+Denmark,Austria,Parken,0.9132589873772423
+Denmark,Norway,Parken,0.5055014862947345
+Denmark,Czechia,Parken,0.6395882994897463
+Norway,Austria,Ullevaal Stadion,1.4172850076388068
+Norway,Denmark,Ullevaal Stadion,0.5055014862947345
+Norway,Czechia,Ullevaal Stadion,1.1443803433208435
+Czechia,Austria,Stadion Letná,0.3014154052558384
+Czechia,Denmark,Stadion Letná,0.6395882994897463
+Czechia,Norway,Stadion Letná,1.1443803433208435
+England,Belgium,Wembley Stadium,0.5181692033136854
+England,Netherlands,Wembley Stadium,0.5866101283021755
+England,France,Wembley Stadium,0.4143823114195546
+Belgium,England,King Baudouin Stadium,0.5181692033136854
+Belgium,Netherlands,King Baudouin Stadium,0.17113477578642625
+Belgium,France,King Baudouin Stadium,0.30992477222378867
+Netherlands,England,Johan Cruyff Arena,0.5866101283021755
+Netherlands,Belgium,Johan Cruyff Arena,0.17113477578642625
+Netherlands,France,Johan Cruyff Arena,0.4731734411521739
+France,England,Stade de France,0.4143823114195546
+France,Belgium,Stade de France,0.30992477222378867
+France,Netherlands,Stade de France,0.4731734411521739
+Switzerland,Portugal,STADE DE SUISSE Wankdorf Bern,2.07248393887663
+Switzerland,Spain,STADE DE SUISSE Wankdorf Bern,0.8574150559971383
+Switzerland,Scotland,STADE DE SUISSE Wankdorf Bern,1.6323209909292051
+Portugal,Switzerland,Estádio Nacional,2.07248393887663
+Portugal,Spain,Estádio Nacional,0.3938653021151971
+Portugal,Scotland,Estádio Nacional,1.9697888605641696
+Spain,Switzerland,Camp Nou,0.8574150559971383
+Spain,Portugal,Ramon Sanchez-Pizjuan Stadium, Calle Sevilla Fútbol Club,0.3938653021151971
+Spain,Scotland,Santiago Bernabéu,1.7063866983971068
+Scotland,Switzerland,Hampden Park,1.6323209909292051
+Scotland,Portugal,Hampden Park,1.9697888605641696
+Scotland,Spain,Hampden Park,1.7063866983971068
+Germany,TÃ¼rkiye,Olympiastadion,3.49096741590615
+Germany,Italy,Olympiastadion,5.134962899926845
+Germany,Israel,Olympiastadion,2.4682055126183275
+TÃ¼rkiye,Germany,Atatürk Olympic Stadium,3.49096741590615
+TÃ¼rkiye,Italy,Atatürk Olympic Stadium,1.8158653525038815
+TÃ¼rkiye,Israel,Atatürk Olympic Stadium,1.0822707841593902
+Italy,Germany,Stadio Olimpico,5.134962899926845
+Italy,TÃ¼rkiye,Stadio Olimpico,1.8158653525038815
+Italy,Israel,Stadio Olimpico,2.6776547933775996
+Israel,Germany,Ramat Gan Stadium,2.4682055126183275
+Israel,TÃ¼rkiye,Ramat Gan Stadium,1.0822707841593902
+Israel,Italy,Ramat Gan Stadium,2.6776547933775996
+Serbia,Slovakia,Red Star's Stadion Rajko Mitic,0.5139884233423059
+Serbia,Hungary,Red Star's Stadion Rajko Mitic,0.32261663289860504
+Serbia,Croatia,Red Star's Stadion Rajko Mitic,0.5064089454249512
+Slovakia,Serbia,Tehelné pole,0.5139884233423059
+Slovakia,Hungary,Tehelné pole,0.2297362136293399
+Slovakia,Croatia,Tehelné pole,0.27902351451504404
+Hungary,Serbia,Puskás Aréna,0.32261663289860504
+Hungary,Slovakia,Puskás Aréna,0.2297362136293399
+Hungary,Croatia,Puskás Aréna,0.3862535718092493
+Croatia,Serbia,Stadion Maksimir,0.5064089454249512
+Croatia,Slovakia,Stadion Maksimir,0.27902351451504404
+Croatia,Hungary,Stadion Maksimir,0.3862535718092493
+Slovenia,Ukraine,Stožice Stadium,0.43291517024581144
+Slovenia,Moldova,Stožice Stadium,1.5976435747772877
+Slovenia,Sweden,Stožice Stadium,1.4700875800448034
+Ukraine,Slovenia,Epet Arena,0.43291517024581144
+Ukraine,Moldova,National Sports Complex “Olympiyskiy”,0.3808581611013003
+Ukraine,Sweden,Stadion Wrocław,0.8808498513371807
+Moldova,Slovenia,Zimbru Stadium,1.5976435747772877
+Moldova,Ukraine,Zimbru Stadium,0.3808581611013003
+Moldova,Sweden,Zimbru Stadium,1.7465046996786988
+Sweden,Slovenia,Friends Arena,1.4700875800448034
+Sweden,Ukraine,Friends Arena,0.8808498513371807
+Sweden,Moldova,Friends Arena,1.7465046996786988
+Kosovo,Poland,Stadium Fadil Vokrri Pristina,0.9932839985127847
+Kosovo,Bulgaria,Stadium Fadil Vokrri Pristina,0.24216241934525182
+Kosovo,Romania,Stadium Fadil Vokrri Pristina,0.5841251167295826
+Poland,Kosovo,Stadion Narodowy,0.9932839985127847
+Poland,Bulgaria,Stadion Narodowy,1.0154885506721962
+Poland,Romania,Stadion Narodowy,0.9765701580734599
+Bulgaria,Kosovo,Vasil Levski National Stadium,0.24216241934525182
+Bulgaria,Poland,Vasil Levski National Stadium,1.0154885506721962
+Bulgaria,Romania,Vasil Levski National Stadium,0.35969163201864984
+Romania,Kosovo,Arena Națională,0.5841251167295826
+Romania,Poland,Arena Națională,0.9765701580734599
+Romania,Bulgaria,Arena Națională,0.35969163201864984
+Greece,Cyprus,Stadium OPAP Arena,1.107095685364029
+Greece,Azerbaijan,Stadium OPAP Arena,2.918266701366944
+Cyprus,Greece,GSP Stadium,1.107095685364029
+Cyprus,Azerbaijan,GSP Stadium,1.8920299062733519
+Azerbaijan,Greece,Baku Olympic Stadium,2.918266701366944
+Azerbaijan,Cyprus,Baku Olympic Stadium,1.8920299062733519
+Malta,Lithuania,National Stadium,2.3034668466614985
+Malta,Finland,National Stadium,2.7927331440692256
+Malta,Liechtenstein,National Stadium,1.338923670377878
+Lithuania,Malta,Nacionalinis stadionas,2.3034668466614985
+Lithuania,Finland,Nacionalinis stadionas,0.5528869572076072
+Lithuania,Liechtenstein,Nacionalinis stadionas,1.925086320659855
+Finland,Malta,Helsinki Olympic Stadium,2.7927331440692256
+Finland,Lithuania,Helsinki Olympic Stadium,0.5528869572076072
+Finland,Liechtenstein,Helsinki Olympic Stadium,2.2007017239890776
+Liechtenstein,Malta,Rheinpark Stadium,1.338923670377878
+Liechtenstein,Lithuania,Rheinpark Stadium,1.925086320659855
+Liechtenstein,Finland,Rheinpark Stadium,2.2007017239890776
+Kazakhstan,Estonia,Astana Arena,5.216140053953096
+Kazakhstan,Georgia,Astana Arena,3.00202572451137
+Kazakhstan,Armenia,Astana Arena,3.04626183330974
+Estonia,Kazakhstan,A. Le Coq Arena,5.216140053953096
+Estonia,Georgia,A. Le Coq Arena,2.741465034644094
+Estonia,Armenia,A. Le Coq Arena,2.803773880851894
+Georgia,Kazakhstan,Boris Paichadze Dinamo Arena,3.00202572451137
+Georgia,Estonia,Boris Paichadze Dinamo Arena,2.741465034644094
+Georgia,Armenia,Boris Paichadze Dinamo Arena,0.1261413211272694
+Armenia,Kazakhstan,Vazgen Sargsyan Republican Stadium,3.04626183330974
+Armenia,Estonia,Vazgen Sargsyan Republican Stadium,2.803773880851894
+Armenia,Georgia,Vazgen Sargsyan Republican Stadium,0.1261413211272694
+Luxembourg,Bosnia and Herzegovina,Luxembourg Stadium,1.4350733848616655
+Luxembourg,Latvia,Luxembourg Stadium,2.1556278029772993
+Luxembourg,Albania,Luxembourg Stadium,1.7664032424907952
+Bosnia and Herzegovina,Luxembourg,Bilino Polje Stadium,1.4350733848616655
+Bosnia and Herzegovina,Latvia,Bilino Polje Stadium,1.4935410903408601
+Bosnia and Herzegovina,Albania,Bilino Polje Stadium,0.3710649677653934
+Latvia,Luxembourg,Daugava Stadium,2.1556278029772993
+Latvia,Bosnia and Herzegovina,Daugava Stadium,1.4935410903408601
+Latvia,Albania,Daugava Stadium,1.6814630877088215
+Albania,Luxembourg,Arena Kombëtare,1.7664032424907952
+Albania,Bosnia and Herzegovina,Arena Kombëtare,0.3710649677653934
+Albania,Latvia,Arena Kombëtare,1.6814630877088215
+Iceland,Faroe Islands,Laugardalsvöllur,1.6945271152769483
+Iceland,Republic of Ireland,Laugardalsvöllur,2.092234057854524
+Iceland,Northern Ireland,Laugardalsvöllur,2.0473808074974973
+Faroe Islands,Iceland,Tórsvøllur,1.6945271152769483
+Faroe Islands,Republic of Ireland,Tórsvøllur,0.9613252405920578
+Faroe Islands,Northern Ireland,Tórsvøllur,0.826868094388438
+Republic of Ireland,Iceland,Aviva Stadium,2.092234057854524
+Republic of Ireland,Faroe Islands,Aviva Stadium,0.9613252405920578
+Republic of Ireland,Northern Ireland,Aviva Stadium,0.1412312007400997
+Northern Ireland,Iceland,National Football Stadium at Windsor Park,2.0473808074974973
+Northern Ireland,Faroe Islands,National Football Stadium at Windsor Park,0.826868094388438
+Northern Ireland,Republic of Ireland,National Football Stadium at Windsor Park,0.1412312007400997
+San Marino,Belarus,San Marino Stadium,1.9694778590893687
+San Marino,Montenegro,San Marino Stadium,0.7721038474531317
+San Marino,North Macedonia,San Marino Stadium,1.0166513153755674
+Belarus,San Marino,Dinamo Stadium,1.9694778590893687
+Belarus,Montenegro,Dinamo Stadium,1.4871650219995418
+Belarus,North Macedonia,Dinamo Stadium,1.381881880857807
+Montenegro,San Marino,Podgorica City Stadium,0.7721038474531317
+Montenegro,Belarus,Podgorica City Stadium,1.4871650219995418
+Montenegro,North Macedonia,Podgorica City Stadium,0.2446306369889266
+North Macedonia,San Marino,Todor Proeski National Arena,1.0166513153755674
+North Macedonia,Belarus,Todor Proeski National Arena,1.381881880857807
+North Macedonia,Montenegro,Todor Proeski National Arena,0.2446306369889266
+Gibraltar,Andorra,Victoria Stadium,1.0399474365713153
+Gibraltar,Wales,Victoria Stadium,1.7166472816710048
+Andorra,Gibraltar,Estadi Nacional,1.0399474365713153
+Andorra,Wales,Estadi Nacional,1.1260469631100696
+Wales,Gibraltar,Principality Stadium,1.7166472816710048
+Wales,Andorra,Principality Stadium,1.1260469631100696
